@@ -1,6 +1,7 @@
 # Todo_App
 
 A todo application which allows you to keep a track of your tasks and journal them.
+
 To run this application on your device:
 
 1. install node, postgreSQL and pgadmin.
